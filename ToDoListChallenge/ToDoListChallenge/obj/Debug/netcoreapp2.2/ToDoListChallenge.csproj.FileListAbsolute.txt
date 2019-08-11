@@ -1,0 +1,14 @@
+C:\Users\perci\source\repos\ToDoListChallenge\ToDoListChallenge\bin\Debug\netcoreapp2.2\ToDoListChallenge.deps.json
+C:\Users\perci\source\repos\ToDoListChallenge\ToDoListChallenge\bin\Debug\netcoreapp2.2\ToDoListChallenge.runtimeconfig.json
+C:\Users\perci\source\repos\ToDoListChallenge\ToDoListChallenge\bin\Debug\netcoreapp2.2\ToDoListChallenge.runtimeconfig.dev.json
+C:\Users\perci\source\repos\ToDoListChallenge\ToDoListChallenge\bin\Debug\netcoreapp2.2\ToDoListChallenge.dll
+C:\Users\perci\source\repos\ToDoListChallenge\ToDoListChallenge\obj\Debug\netcoreapp2.2\ToDoListChallenge.csprojAssemblyReference.cache
+C:\Users\perci\source\repos\ToDoListChallenge\ToDoListChallenge\obj\Debug\netcoreapp2.2\ToDoListChallenge.csproj.CoreCompileInputs.cache
+C:\Users\perci\source\repos\ToDoListChallenge\ToDoListChallenge\obj\Debug\netcoreapp2.2\ToDoListChallenge.RazorAssemblyInfo.cache
+C:\Users\perci\source\repos\ToDoListChallenge\ToDoListChallenge\obj\Debug\netcoreapp2.2\ToDoListChallenge.RazorAssemblyInfo.cs
+C:\Users\perci\source\repos\ToDoListChallenge\ToDoListChallenge\obj\Debug\netcoreapp2.2\ToDoListChallenge.AssemblyInfoInputs.cache
+C:\Users\perci\source\repos\ToDoListChallenge\ToDoListChallenge\obj\Debug\netcoreapp2.2\ToDoListChallenge.AssemblyInfo.cs
+C:\Users\perci\source\repos\ToDoListChallenge\ToDoListChallenge\obj\Debug\netcoreapp2.2\ToDoListChallenge.RazorTargetAssemblyInfo.cache
+C:\Users\perci\source\repos\ToDoListChallenge\ToDoListChallenge\bin\Debug\netcoreapp2.2\ToDoListChallenge.pdb
+C:\Users\perci\source\repos\ToDoListChallenge\ToDoListChallenge\obj\Debug\netcoreapp2.2\ToDoListChallenge.dll
+C:\Users\perci\source\repos\ToDoListChallenge\ToDoListChallenge\obj\Debug\netcoreapp2.2\ToDoListChallenge.pdb
